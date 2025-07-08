@@ -2,6 +2,10 @@
 
 This application was developed using Streamlit and OpenCV to interactively and easily detect moving objects in videos.
 
+## project demo link 
+
+link----> https://object-detection-project-eacxmdwc54z6wouk52wrm8.streamlit.app/
+
 ## Features
 - Upload and process video files (`.mp4`, `.avi`, `.mov`)
 - Detect moving objects using the MOG2 algorithm
