@@ -20,7 +20,7 @@ link----> https://object-detection-project-eacxmdwc54z6wouk52wrm8.streamlit.app/
    ```
 3. Run the app:
    ```bash
-   streamlit run project2.py
+   streamlit run app.py
    ```
 4. Open the local URL provided in your browser.
 
